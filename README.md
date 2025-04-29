@@ -1,7 +1,3 @@
-Here's your updated and neatly organized `README.md` file with all certificates from your folder, arranged by topic and relevance (backend development, programming, AI/ML, cloud, cybersecurity, etc.):
-
----
-
 📜 Certifications
 
 This folder contains my verified certifications across backend development, cloud computing, artificial intelligence, and system fundamentals.

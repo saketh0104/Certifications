@@ -1,6 +1,6 @@
 📜 Certifications
 
-This folder contains my verified certifications across backend development, cloud computing, artificial intelligence, and system fundamentals.
+This repo contains my verified certifications across backend development, cloud computing, artificial intelligence, and system fundamentals.
 
 ---
 

@@ -7,11 +7,10 @@ This repo contains my verified certifications across backend development, cloud 
 🧠 Artificial Intelligence & Machine Learning
 | Certificate Title                                                                   | Issuing Organization             |
 |-------------------------------------------------------------------------------------|----------------------------------|
+| Neural Networks & Deep Learning                                                     | Coursera                         |
 | Introduction to Artificial Intelligence                                             | Infosys Springboard              |
 | Artificial Intelligence with Python – Heuristic Search                              | Infosys Springboard              |
-| Introduction to Deep Learning                                                       | Infosys Springboard              |
 | Introduction to Natural Language Processing                                         | Infosys Springboard              |
-| Foundations of R Software                                                           | NPTEL, IIT Kanpur                |
 
 ---
 
@@ -23,6 +22,7 @@ This repo contains my verified certifications across backend development, cloud 
 | PCAP: Programming Essentials in Python                           | OpenEDG Python Institute         |
 | SQL (Advanced) Certificate                                       | HackerRank                       |
 | Python Certificate                                               | HackerRank                       |
+| Foundations of R Software                                        | NPTEL, IIT Kanpur                |
 
 ---
 
@@ -53,7 +53,8 @@ This repo contains my verified certifications across backend development, cloud 
 🎓 Others
 | Certificate Title                                                | Issuing Organization             |
 |------------------------------------------------------------------|----------------------------------|
-| Design, Technology and Innovation                                | Unspecified                      |
+| Design, Technology and Innovation                                | IIT Bombay                       |
+| 2nd place in TechXcellerate25 Hackathon, BITS Pilani Hyderabad   | Launchpad BITS Pilani Hyderabad  |
 | Presentation Certificate – IEEENKCon24                           | IEEE (International Conference)  |
 
 ---

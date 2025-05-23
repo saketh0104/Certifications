@@ -1,6 +1,8 @@
 📜 Certifications
 
-This repo contains my verified certifications across backend development, cloud computing, artificial intelligence, and system fundamentals.
+This GitHub repository contains my verified certifications across multiple domains, including backend development, cloud computing, artificial intelligence, and system fundamentals.
+
+Please feel free to view my certifications showcasing my skills and knowledge in these areas.
 
 ---
 

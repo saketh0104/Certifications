@@ -2,62 +2,81 @@
 
 This GitHub repository contains my verified certifications across multiple domains, including backend development, cloud computing, artificial intelligence, and system fundamentals.
 
-Please feel free to view my certifications showcasing my skills and knowledge in these areas.
+Feel free to explore my certifications showcasing my expertise and knowledge in these areas.
 
 ---
 
 🧠 Artificial Intelligence & Machine Learning
-| Certificate Title                                                                   | Issuing Organization             |
-|-------------------------------------------------------------------------------------|----------------------------------|
-| Neural Networks & Deep Learning                                                     | Coursera                         |
-| Introduction to Artificial Intelligence                                             | Infosys Springboard              |
-| Artificial Intelligence with Python – Heuristic Search                              | Infosys Springboard              |
-| Introduction to Natural Language Processing                                         | Infosys Springboard              |
+
+| Certification Title                                    | Issuing Organization |
+| ------------------------------------------------------ | -------------------- |
+| Neural Networks & Deep Learning                        | Coursera             |
+| Introduction to Artificial Intelligence                | Infosys Springboard  |
+| Artificial Intelligence with Python – Heuristic Search | Infosys Springboard  |
+| Introduction to Natural Language Processing            | Infosys Springboard  |
 
 ---
 
-💻 Programming Languages & Development
-| Certificate Title                                                | Issuing Organization             |
-|------------------------------------------------------------------|----------------------------------|
-| Programming in Modern C++                                        | NPTEL, IIT Kharagpur             |
-| CLA: Programming Essentials in C                                 | Cisco Networking Academy         |
-| PCAP: Programming Essentials in Python                           | OpenEDG Python Institute         |
-| SQL (Advanced) Certificate                                       | HackerRank                       |
-| Python Certificate                                               | HackerRank                       |
-| Foundations of R Software                                        | NPTEL, IIT Kanpur                |
+🍵 Java Programming Certifications
+
+| Certification Title | Issuing Organization |
+| ------------------- | -------------------- |
 
 ---
 
-🌐 Web & Backend Development
-| Certificate Title                                                | Issuing Organization             |
-|------------------------------------------------------------------|----------------------------------|
-| Database Foundations                                             | Oracle Academy                   |
-| Introduction to Web Development                                  | Microsoft Learn Student Program  |
+💻 Programming Languages
+
+| Certification Title                    | Issuing Organization     |
+| -------------------------------------- | ------------------------ |
+| PCAP: Programming Essentials in Python | OpenEDG Python Institute |
+| CLA: Programming Essentials in C       | Cisco Networking Academy |
+| Programming in Modern C++              | NPTEL, IIT Kharagpur     |
+| Foundations of R Software              | NPTEL, IIT Kanpur        |
 
 ---
 
-☁️ Cloud Computing & IoT
-| Certificate Title                                                | Issuing Organization             |
-|------------------------------------------------------------------|----------------------------------|
-| AWS Cloud Computing                                              | Skill AP, APSSDC                 |
-| IoT Fundamentals: Connecting Things                              | Cisco Networking Academy         |
+🌐 Database Management Systems 
+
+| Certification Title             | Issuing Organization            |
+| ------------------------------- | ------------------------------- |
+| Database Foundations            | Oracle Academy                  |
+| SQL (Advanced) Certificate             | HackerRank               |
+
+---
+
+☁️ Cloud Computing
+
+| Certification Title             | Issuing Organization |
+| ------------------------------- | -------------------- |
+| AWS Cloud Computing Foundations | Skill AP, APSSDC     |
 
 ---
 
 🔐 Cybersecurity & Linux
-| Certificate Title                                                | Issuing Organization             |
-|------------------------------------------------------------------|----------------------------------|
-| Introduction to Cybersecurity                                    | Cisco Networking Academy         |
-| NDG Linux Essentials                                             | Cisco Networking Academy         |
+
+| Certification Title                  | Issuing Organization     |
+| ------------------------------------ | ------------------------ |
+| Introduction to Cybersecurity        | Cisco Networking Academy |
+| Ethical Hacker Certification & Badge | Cisco Networking Academy |
+| NDG Linux Essentials                 | Cisco Networking Academy |
 
 ---
 
-🎓 Others
-| Certificate Title                                                | Issuing Organization             |
-|------------------------------------------------------------------|----------------------------------|
-| Design, Technology and Innovation                                | IIT Bombay                       |
-| 2nd place in TechXcellerate25 Hackathon, BITS Pilani Hyderabad   | Launchpad BITS Pilani Hyderabad  |
-| Presentation Certificate – IEEENKCon24                           | IEEE (International Conference)  |
+🏅 Achievement & Recognition
+
+| Certification Title                                           | Issuing Organization             |
+| ------------------------------------------------------------- | -------------------------------- |
+| 2nd Place – TechXcellerate25 Hackathon, BITS Pilani Hyderabad | Launchpad, BITS Pilani Hyderabad |
+| Presentation Certificate – IEEENKCon24                        | IEEE Bengaluru Section           |
+
+---
+
+🎓 Additional Certifications
+
+| Certification Title                 | Issuing Organization     |
+| ----------------------------------- | ------------------------ |
+| Design, Technology and Innovation   | IIT Bombay               |
+| IoT Fundamentals: Connecting Things | Cisco Networking Academy |
 
 ---
 

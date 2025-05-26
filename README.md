@@ -19,8 +19,9 @@ Feel free to explore my certifications showcasing my expertise and knowledge in 
 
 🍵 Java Programming Certifications
 
-| Certification Title | Issuing Organization |
-| ------------------- | -------------------- |
+| Certification Title          | Issuing Organization |
+| ---------------------------- | -------------------- |
+| Oracle Java Explorer Badge   | Oracle Academy       |
 
 ---
 

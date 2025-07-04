@@ -21,13 +21,14 @@ Feel free to explore my certifications showcasing my expertise and knowledge in 
 
 | Certification Title                       | Issuing Organization |
 | ------------------------------------------| -------------------- |
+| Programming using Java                    | Infosys Springboard  |
 | Data Structures and Algorithms using Java | Infosys Springboard  |
 | Oracle Java Explorer Badge                | Oracle Academy       |
 | Codechef learning Path                    | Codechef             |
 
 ---
 
-💻 Programming Languages
+💻 Other Programming Languages
 
 | Certification Title                    | Issuing Organization     |
 | -------------------------------------- | ------------------------ |

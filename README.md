@@ -19,10 +19,11 @@ Feel free to explore my certifications showcasing my expertise and knowledge in 
 
 🍵 Java Programming Courses Completed & Certifications
 
-| Certification Title          | Issuing Organization |
-| ---------------------------- | -------------------- |
-| Oracle Java Explorer Badge   | Oracle Academy       |
-| Codechef learning Path       | Codechef             |
+| Certification Title                       | Issuing Organization |
+| ------------------------------------------| -------------------- |
+| Data Structures and Algorithms using Java | Infosys Springboard  |
+| Oracle Java Explorer Badge                | Oracle Academy       |
+| Codechef learning Path                    | Codechef             |
 
 ---
 

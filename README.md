@@ -23,8 +23,8 @@ Feel free to explore my certifications showcasing my expertise and knowledge in 
 | ------------------------------------------| -------------------- |
 | Programming using Java                    | Infosys Springboard  |
 | Data Structures and Algorithms using Java | Infosys Springboard  |
+| Java Foundation Certification             | Infosys Springboard  |
 | Oracle Java Explorer Badge                | Oracle Academy       |
-| Codechef learning Path                    | Codechef             |
 
 ---
 
